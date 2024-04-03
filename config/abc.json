@@ -1,6 +1,6 @@
 [
     {
-        "module":"dirlister"
+        "module":"dir_lister"
     },
     {
         "module":"environment"
